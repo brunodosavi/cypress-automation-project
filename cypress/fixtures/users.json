@@ -1,0 +1,18 @@
+{
+  "validUser": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "invalidUser": {
+    "username": "locked_out_user",
+    "password": "wrong_password"
+  },
+  "newUser": {
+    "name": "Jane QA",
+    "job": "QA Engineer"
+  },
+  "updatedUser": {
+    "name": "Jane QA Updated",
+    "job": "Lead QA Engineer"
+  }
+}
