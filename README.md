@@ -1,6 +1,6 @@
 # 🚀 Cypress Automation Project
 
-This is a full-featured test automation framework built using **Cypress** for both **UI** and **API testing**, with CI integration via **GitHub Actions**.
+This is a full-featured test automation framework built using **Cypress** for both **UI** and **API testing**.
 
 > 🔍 UI Target: [saucedemo.com](https://www.saucedemo.com/)  
 > 🔗 API Target: [reqres.in](https://reqres.in/)
